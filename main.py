@@ -1,5 +1,4 @@
 import os
-import fitz
 import requests
 import cv2
 from PIL import Image
