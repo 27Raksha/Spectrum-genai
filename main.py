@@ -7,7 +7,6 @@ from skimage.metrics import structural_similarity as ssim
 from tqdm import tqdm
 import streamlit as st
 from dotenv import load_dotenv
-from pymongo import MongoClient
 from PIL import Image
 from PyPDF2 import PdfReader
 from gtts import gTTS
@@ -26,7 +25,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 from bs4 import BeautifulSoup
 from io import BytesIO
 import google.generativeai as genai
-from pymongo import MongoClient
+
 
 # Load environment variables
 load_dotenv()

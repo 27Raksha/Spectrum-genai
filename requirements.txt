@@ -1,8 +1,6 @@
 streamlit
 fitz
 dnspython
-pymongo
-PyMongo
 python-dotenv
 PyPDF2
 gtts
