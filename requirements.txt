@@ -1,5 +1,6 @@
 streamlit
 PyMuPDF
+opencv-python
 dnspython
 python-dotenv
 PyPDF2
