@@ -1,4 +1,5 @@
 streamlit
+fitz
 dnspython
 pymongo
 PyMongo
