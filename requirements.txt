@@ -1,21 +1,23 @@
-streamlit==1.33.0
-fitz==0.0.1.dev2
-opencv-python-headless
-
-PyMuPDF==1.24.2
-Pillow==10.3.0
-scikit-image==0.24.0
-tqdm==4.66.4
-python-dotenv==1.0.1
-PyPDF2==3.0.1
-gtts==2.5.2
-langchain== 0.1.16
-langchain==0.1.16
-langchain-community==0.0.33
-langchain-core==0.1.43
-langchain-google-genai==1.0.2
-# google-generativeai==0.7.2
-pytesseract==0.3.10
-speechrecognition==3.10.0
-youtube-transcript-api==0.6.2
-beautifulsoup4==4.12.2
+dependencies:
+    streamlit==1.33.0
+    fitz==0.0.1.dev2
+    opencv-python-headless
+    tesseract-ocr
+    pytesseract==0.3.10
+    PyMuPDF==1.24.2
+    Pillow==10.3.0
+    scikit-image==0.24.0
+    tqdm==4.66.4
+    python-dotenv==1.0.1
+    PyPDF2==3.0.1
+    gtts==2.5.2
+    langchain== 0.1.16
+    langchain==0.1.16
+    langchain-community==0.0.33
+    langchain-core==0.1.43
+    langchain-google-genai==1.0.2
+    # google-generativeai==0.7.2
+    pytesseract==0.3.10
+    speechrecognition==3.10.0
+    youtube-transcript-api==0.6.2
+    beautifulsoup4==4.12.2
