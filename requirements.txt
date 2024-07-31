@@ -1,0 +1,15 @@
+streamlit
+fitz
+opencv-python
+Pillow
+scikit-image
+tqdm
+python-dotenv
+PyPDF2
+gtts
+langchain
+google-generativeai
+google-generativelanguage
+speechrecognition
+youtube-transcript-api
+beautifulsoup4
