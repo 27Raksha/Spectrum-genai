@@ -10,7 +10,11 @@ python-dotenv==1.0.1
 PyPDF2==3.0.1
 gtts==2.5.2
 langchain== 0.1.16
-google-generativeai==0.7.2
+langchain==0.1.16
+langchain-community==0.0.33
+langchain-core==0.1.43
+langchain-google-genai==1.0.2
+# google-generativeai==0.7.2
 pytesseract==0.3.10
 speechrecognition==3.10.0
 youtube-transcript-api==0.6.2
