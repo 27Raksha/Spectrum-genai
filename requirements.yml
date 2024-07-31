@@ -1,7 +1,7 @@
 dependencies:
     streamlit==1.33.0
     fitz==0.0.1.dev2
-    opencv-python-headless
+    opencv-python
     tesseract-ocr
     pytesseract==0.3.10
     PyMuPDF==1.24.2
